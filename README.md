@@ -12,3 +12,5 @@ You can onl use it on SCRATCH if you are making a Operating system, anything els
 
 Website:
 https://sites.google.com/view/xtpl
+
+if you have any issues/problems DM scyda, or send an email: scyda.gg@gmail.com
