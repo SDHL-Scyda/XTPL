@@ -1,5 +1,5 @@
 NOTE:
-XTPL is used for SCRATCH
+XTPL is used for SCRATCH OPERATING SYSTEMS! IT WONT WORK ON NORMAL COMPUTERS!
 
 What is XTPL?
 XTPL stands for XBEISO TERMINAL PROGRAMM LANGUAGE, its used for the Xbeiso Terminal (Xbeiso 10 as of right now)
